@@ -15,6 +15,10 @@
 - Friendly terminal UI with clear prompts
 
 ---
+## 🖼️ Game Screenshot
+
+![Game Screenshot](https://github.com/dakshjain2005/TermiXO/blob/main/TermiXO.png?raw=true)
+
 
 ## ▶️ How to Play
 
