@@ -17,7 +17,7 @@
 ---
 ## 🖼️ Game Screenshot
 
-![Game Screenshot](https://github.com/dakshjain2005/TermiXO/blob/main/TermiXO.png?raw=true)
+![Game Screenshot](https://github.com/dakshjain2005/TermiXO/blob/main/TermiXO.mp4)
 
 
 ## ▶️ How to Play
